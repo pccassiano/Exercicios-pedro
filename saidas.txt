@@ -1,0 +1,4 @@
+Informe a distancia que ira percorrer: Quantos km seu carro faz por litro? Qual o preco medio do combustivel? 
+Voce precisa de 500.028564 litros para completar sua viagem
+Sua viagem custara 1849.605591 dilmas.
+

@@ -1,0 +1,9 @@
+Camila:
+(precoMedio < 20.0) && (selfService == TRUE) && (cozinha == ITALIANA) || (cozinha == JAPONESA)
+
+
+Lorena:
+(selfServ == TRUE && distancia <= 5 && precoKg <= 50.0) || qualidadeExcepcional == TRUE
+
+
+(preco *  dist) < 0.4
