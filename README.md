@@ -1,2 +1,2 @@
-# desafio-github-pedro
-pasta de desafios do site de aprendizado e projetos da DIO
+# Exercicios Feito em aula por mim
+pasta de desafios de sites de aprendizado e projetos feito em aula
